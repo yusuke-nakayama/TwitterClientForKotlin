@@ -1,0 +1,3 @@
+Kotlinの練習、さらに自宅でのGithubでの使用の練習
+ついでに通常のGitGUIやAndroidStudioのGit連携なども試してみる。
+まずはTwitterClientを作ってみる。
